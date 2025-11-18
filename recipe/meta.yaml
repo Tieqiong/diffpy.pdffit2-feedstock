@@ -32,6 +32,7 @@ requirements:
     - python
     - setuptools
     - diffpy.structure
+    - gsl
 
 test: 
   requires:
